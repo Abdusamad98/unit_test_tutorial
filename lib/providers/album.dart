@@ -12,4 +12,5 @@ class Album {
       title: json['title'],
     );
   }
+
 }
